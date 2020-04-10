@@ -1,0 +1,18 @@
+.Header {
+    font-weight: 600;
+    color: #FFCC33;
+}
+
+.InfoPopover {
+    width: 420px;
+}
+
+.PersonTable {
+	display: inline-block;
+}
+
+.TableHeader {
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
